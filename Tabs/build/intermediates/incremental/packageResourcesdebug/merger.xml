@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res"><file name="apsts_tips" path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\drawable\apsts_tips.xml" qualifiers="" type="drawable"/><file name="psts_background_tab" path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\drawable\psts_background_tab.xml" qualifiers="" type="drawable"/><file path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\values\attrs.xml" qualifiers=""><declare-styleable name="AdvancedPagerSlidingTabStrip">
+        <attr format="color" name="apTabIndicatorColor"/>
+        <attr format="color" name="apTabUnderlineColor"/>
+        <attr format="color" name="apTabDividerColor"/>
+        <attr format="color" name="apTabTextSelectColor"/>
+        <attr format="dimension" name="apTabIndicatorHeight"/>
+        <attr format="dimension" name="apTabUnderlineHeight"/>
+        <attr format="dimension" name="apTabDividerPadding"/>
+        <attr format="dimension" name="apTabPaddingLeftRight"/>
+        <attr format="dimension" name="apTabPaddingTopBottom"/>
+        <attr format="dimension" name="apTabScrollOffset"/>
+        <attr format="reference" name="apTabBackground"/>
+        <attr format="boolean" name="apTabShouldExpand"/>
+        <attr format="boolean" name="apTabTextAllCaps"/>
+        <attr format="enum" name="apTabDrawMode">
+            <enum name="normal" value="0"/>
+            <enum name="text" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\values\colors.xml" qualifiers=""><color name="background_tab_pressed">#6633B5E5</color><color name="red">#E43F3E</color></file><file path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\values\dimens.xml" qualifiers=""><dimen name="psts_dot_wh">8dp</dimen><dimen name="psts_dot_m_top">7dp</dimen><dimen name="psts_dot_m_right">9dp</dimen><dimen name="psts_dot_linelayout_h">23dp</dimen><dimen name="psts_dot_txt_size">10sp</dimen></file><file path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\res\values\ids.xml" qualifiers=""><item name="id_tab_txt" type="id">888</item><item name="tag_position" type="id"/></file></source><source path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\build\generated\res\rs\debug"/><source path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="F:\software\adt-bundle-windows-x86-20130917\libraries\AdvancedPagerSlidingTabStrip-master\Library\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AdvancedPagerSlidingTabStrip"><attr format="color" name="apTabIndicatorColor"/><attr format="color" name="apTabUnderlineColor"/><attr format="color" name="apTabDividerColor"/><attr format="color" name="apTabTextSelectColor"/><attr format="dimension" name="apTabIndicatorHeight"/><attr format="dimension" name="apTabUnderlineHeight"/><attr format="dimension" name="apTabDividerPadding"/><attr format="dimension" name="apTabPaddingLeftRight"/><attr format="dimension" name="apTabPaddingTopBottom"/><attr format="dimension" name="apTabScrollOffset"/><attr format="reference" name="apTabBackground"/><attr format="boolean" name="apTabShouldExpand"/><attr format="boolean" name="apTabTextAllCaps"/><attr format="enum" name="apTabDrawMode"><enum name="normal" value="0"/><enum name="text" value="1"/></attr></declare-styleable></configuration></mergedItems></merger>

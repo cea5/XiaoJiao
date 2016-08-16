@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apsts-1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/homhomlin.lib/apsts/1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/homhomlin.lib/apsts/1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/homhomlin.lib/apsts/1.4.0/d848f5602465ba14870fbe2e9bcd00eb6b701adc/apsts-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

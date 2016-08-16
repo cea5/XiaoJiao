@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\software\\adt-bundle-windows-x86-20130917\\as_example\\XiaoJiao\\Tabs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\software\\adt-bundle-windows-x86-20130917\\as_example\\XiaoJiao\\Tabs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\software\\adt-bundle-windows-x86-20130917\\as_example\\XiaoJiao\\Tabs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\software\\adt-bundle-windows-x86-20130917\\as_example\\XiaoJiao\\Tabs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
